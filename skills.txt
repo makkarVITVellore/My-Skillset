@@ -3,5 +3,7 @@
   3. Tools/Technologies - Git BASH, GitHub, Control-M
 
 Skills that I plan to learn - 
-1. Programming Languages - Python
+1. Programming Languages - Python,CSS3, Javascript
 2. Databases - NoSQL (MongoDB)
+3. Tools - Maven
+4. Frameworks - SpringBoot, Spark
