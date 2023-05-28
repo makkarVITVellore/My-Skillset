@@ -1,3 +1,7 @@
   1. Programming Languages - Java 8, Oracle SQL, HTML5
   2. Frameworks/Technologies - JSP, JDBC, Spring Core (Learning)
   3. Tools/Technologies - Git BASH, GitHub, Control-M
+
+Skills that I plan to learn - 
+1. Programming Languages - Python
+2. Databases - NoSQL (MongoDB)
